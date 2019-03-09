@@ -186,7 +186,6 @@ int main(void)
 			if(buffer ==0) {
 			setHistory(history,args,&size);
 		}
-		printf("%i\n",should_run);
 		}
 
 	return 0;
