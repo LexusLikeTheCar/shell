@@ -3,7 +3,8 @@ a simple shell program
 
 # How to compile
 
- gcc -o shell shell.c or clang shell.c -o shell (if on a mac)
+ * gcc -o shell shell.c 
+ * clang shell.c -o shell 
   
  # How to execute
  
